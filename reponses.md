@@ -20,3 +20,7 @@ git reset --soft
 git revert HEAD~1 -m "revert test affichage"
 alors que
 git reset HEAD~1 aurait tout supprimé
+
+### 5 - Mission 11
+git stash
+puis git stash pop pour récupérer le travail
