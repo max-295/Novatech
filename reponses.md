@@ -24,3 +24,21 @@ git reset HEAD~1 aurait tout supprimé
 ### 5 - Mission 11
 git stash
 puis git stash pop pour récupérer le travail
+
+### 6 - Mission 12 
+ajout git ignore pour oublier les .log le .env et /cache
+
+
+zone de travail -- pas add
+staging -- > add mais pas commit
+historique --> ce qui est commit
+
+Conflict en cas de modif de la meme ligne puis merge
+
+L'un conserve l'historique et le commit et l'autre (reset) non
+
+En cas de changement de direction brusque
+
+HEAD --> tête d'historique (dernier commit)
+
+HEAD~2 --> 2 commit avant
