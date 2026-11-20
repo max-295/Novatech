@@ -12,5 +12,11 @@ Usage de git log --graph
 git show 2b30b8e
 
 ### 3 - Mission 9
+git reset --soft
+ça ne conserve rien dans l'historique mais conserve le staging + modif
+
+
+### 4 - Mission 10
 git revert HEAD~1 -m "revert test affichage"
+alors que
 git reset HEAD~1 aurait tout supprimé
