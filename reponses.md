@@ -10,6 +10,3 @@ commit ajout contact : cc3605a (commit fait en 2 parties donc c'est le premier)
 10 commits pour le moment.
 Usage de git log --graph
 git show 2b30b8e
-
-### 3 - Mission 8
-git restore index.html
